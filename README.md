@@ -1,1 +1,1 @@
-# spinner
+# Spinner (PNG x SVG)
